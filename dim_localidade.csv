@@ -1,0 +1,88 @@
+localidade_id,estado,cidade
+1,AL,Arapiraca
+2,AL,Maceió
+3,AM,Itacoatiara
+4,AM,Manaus
+5,AP,Macapá
+6,BA,Camaçari
+7,BA,Feira de Santana
+8,BA,Ilhéus
+9,BA,Lauro de Freitas
+10,BA,Salvador
+11,BA,Vitória da Conquista
+12,CE,Caucaia
+13,CE,Fortaleza
+14,CE,Juazeiro do Norte
+15,CE,Maracanaú
+16,DF,Brasília
+17,ES,Serra
+18,ES,Vila Velha
+19,ES,Vitória
+20,GO,Anápolis
+21,GO,Aparecida de Goiânia
+22,GO,Goiânia
+23,MA,Imperatriz
+24,MA,São Luís
+25,MG,Belo Horizonte
+26,MG,Betim
+27,MG,Contagem
+28,MG,Governador Valadares
+29,MG,Juiz de Fora
+30,MG,Uberlândia
+31,MS,Campo Grande
+32,MS,Dourados
+33,MT,Cuiabá
+34,MT,Várzea Grande
+35,PA,Ananindeua
+36,PA,Belém
+37,PA,Santarém
+38,PB,Campina Grande
+39,PB,João Pessoa
+40,PE,Caruaru
+41,PE,Jaboatão dos Guararapes
+42,PE,Olinda
+43,PE,Recife
+44,PI,Parnaíba
+45,PI,Teresina
+46,PR,Cascavel
+47,PR,Curitiba
+48,PR,Foz do Iguaçu
+49,PR,Londrina
+50,PR,Maringá
+51,PR,Ponta Grossa
+52,RJ,Campos dos Goytacazes
+53,RJ,Duque de Caxias
+54,RJ,Niterói
+55,RJ,Nova Iguaçu
+56,RJ,Rio de Janeiro
+57,RJ,São Gonçalo
+58,RJ,Volta Redonda
+59,RN,Mossoró
+60,RN,Natal
+61,RO,Ji-Paraná
+62,RO,Porto Velho
+63,RR,Boa Vista
+64,RS,Caxias do Sul
+65,RS,Gravataí
+66,RS,Novo Hamburgo
+67,RS,Pelotas
+68,RS,Porto Alegre
+69,RS,Santa Maria
+70,SC,Blumenau
+71,SC,Chapecó
+72,SC,Criciúma
+73,SC,Florianópolis
+74,SC,Itajaí
+75,SC,Joinville
+76,SP,Barueri
+77,SP,Campinas
+78,SP,Carapicuíba
+79,SP,Diadema
+80,SP,Guarulhos
+81,SP,Osasco
+82,SP,Ribeirão Preto
+83,SP,Santos
+84,SP,Sorocaba
+85,SP,São José dos Campos
+86,SP,São Paulo
+87,TO,Palmas

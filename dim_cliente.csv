@@ -1,0 +1,1001 @@
+cliente_id,nome_cliente,estado,cidade
+1,Cliente 0001,SP,Campinas
+2,Cliente 0002,PE,Recife
+3,Cliente 0003,SC,Joinville
+4,Cliente 0004,MA,Imperatriz
+5,Cliente 0005,RJ,Nova Iguaçu
+6,Cliente 0006,SP,Guarulhos
+7,Cliente 0007,SC,Joinville
+8,Cliente 0008,DF,Brasília
+9,Cliente 0009,BA,Ilhéus
+10,Cliente 0010,AM,Manaus
+11,Cliente 0011,AM,Manaus
+12,Cliente 0012,RJ,Rio de Janeiro
+13,Cliente 0013,MG,Belo Horizonte
+14,Cliente 0014,RS,Pelotas
+15,Cliente 0015,RS,Pelotas
+16,Cliente 0016,MG,Contagem
+17,Cliente 0017,MS,Dourados
+18,Cliente 0018,PR,Maringá
+19,Cliente 0019,RO,Ji-Paraná
+20,Cliente 0020,PR,Ponta Grossa
+21,Cliente 0021,ES,Vitória
+22,Cliente 0022,GO,Aparecida de Goiânia
+23,Cliente 0023,AP,Macapá
+24,Cliente 0024,SP,Ribeirão Preto
+25,Cliente 0025,PE,Olinda
+26,Cliente 0026,RO,Ji-Paraná
+27,Cliente 0027,GO,Goiânia
+28,Cliente 0028,GO,Aparecida de Goiânia
+29,Cliente 0029,SC,Blumenau
+30,Cliente 0030,AL,Arapiraca
+31,Cliente 0031,AP,Macapá
+32,Cliente 0032,CE,Caucaia
+33,Cliente 0033,PR,Cascavel
+34,Cliente 0034,MT,Várzea Grande
+35,Cliente 0035,PR,Londrina
+36,Cliente 0036,SP,Carapicuíba
+37,Cliente 0037,PI,Teresina
+38,Cliente 0038,MG,Contagem
+39,Cliente 0039,SC,Florianópolis
+40,Cliente 0040,MG,Betim
+41,Cliente 0041,PR,Curitiba
+42,Cliente 0042,SP,São Paulo
+43,Cliente 0043,RJ,Rio de Janeiro
+44,Cliente 0044,RR,Boa Vista
+45,Cliente 0045,PR,Foz do Iguaçu
+46,Cliente 0046,RO,Ji-Paraná
+47,Cliente 0047,SP,Osasco
+48,Cliente 0048,MG,Betim
+49,Cliente 0049,PA,Belém
+50,Cliente 0050,AL,Arapiraca
+51,Cliente 0051,BA,Ilhéus
+52,Cliente 0052,RJ,Campos dos Goytacazes
+53,Cliente 0053,SP,Diadema
+54,Cliente 0054,PR,Curitiba
+55,Cliente 0055,RJ,Rio de Janeiro
+56,Cliente 0056,SP,São Paulo
+57,Cliente 0057,CE,Juazeiro do Norte
+58,Cliente 0058,MG,Governador Valadares
+59,Cliente 0059,TO,Palmas
+60,Cliente 0060,SP,Carapicuíba
+61,Cliente 0061,AL,Maceió
+62,Cliente 0062,MG,Betim
+63,Cliente 0063,CE,Juazeiro do Norte
+64,Cliente 0064,RN,Mossoró
+65,Cliente 0065,RJ,Rio de Janeiro
+66,Cliente 0066,BA,Feira de Santana
+67,Cliente 0067,AM,Itacoatiara
+68,Cliente 0068,MA,Imperatriz
+69,Cliente 0069,ES,Vila Velha
+70,Cliente 0070,PB,Campina Grande
+71,Cliente 0071,CE,Maracanaú
+72,Cliente 0072,RS,Caxias do Sul
+73,Cliente 0073,MG,Governador Valadares
+74,Cliente 0074,SC,Itajaí
+75,Cliente 0075,PB,João Pessoa
+76,Cliente 0076,RJ,São Gonçalo
+77,Cliente 0077,ES,Serra
+78,Cliente 0078,SP,São Paulo
+79,Cliente 0079,PI,Parnaíba
+80,Cliente 0080,MG,Belo Horizonte
+81,Cliente 0081,ES,Serra
+82,Cliente 0082,CE,Fortaleza
+83,Cliente 0083,SP,Sorocaba
+84,Cliente 0084,MG,Belo Horizonte
+85,Cliente 0085,RS,Porto Alegre
+86,Cliente 0086,BA,Salvador
+87,Cliente 0087,RS,Pelotas
+88,Cliente 0088,ES,Vila Velha
+89,Cliente 0089,SP,São Paulo
+90,Cliente 0090,MT,Várzea Grande
+91,Cliente 0091,BA,Ilhéus
+92,Cliente 0092,PE,Caruaru
+93,Cliente 0093,SP,Santos
+94,Cliente 0094,PE,Olinda
+95,Cliente 0095,PE,Jaboatão dos Guararapes
+96,Cliente 0096,BA,Camaçari
+97,Cliente 0097,RJ,Campos dos Goytacazes
+98,Cliente 0098,MG,Betim
+99,Cliente 0099,RS,Caxias do Sul
+100,Cliente 0100,RN,Mossoró
+101,Cliente 0101,RJ,Rio de Janeiro
+102,Cliente 0102,RN,Mossoró
+103,Cliente 0103,SC,Blumenau
+104,Cliente 0104,MT,Cuiabá
+105,Cliente 0105,RJ,Duque de Caxias
+106,Cliente 0106,GO,Goiânia
+107,Cliente 0107,GO,Aparecida de Goiânia
+108,Cliente 0108,SC,Blumenau
+109,Cliente 0109,SC,Blumenau
+110,Cliente 0110,AM,Manaus
+111,Cliente 0111,SC,Joinville
+112,Cliente 0112,RO,Porto Velho
+113,Cliente 0113,RO,Porto Velho
+114,Cliente 0114,MA,São Luís
+115,Cliente 0115,RJ,Nova Iguaçu
+116,Cliente 0116,BA,Lauro de Freitas
+117,Cliente 0117,AM,Itacoatiara
+118,Cliente 0118,MS,Campo Grande
+119,Cliente 0119,PE,Caruaru
+120,Cliente 0120,PA,Belém
+121,Cliente 0121,MA,São Luís
+122,Cliente 0122,BA,Camaçari
+123,Cliente 0123,RS,Novo Hamburgo
+124,Cliente 0124,SP,Sorocaba
+125,Cliente 0125,SC,Joinville
+126,Cliente 0126,AM,Manaus
+127,Cliente 0127,SP,Diadema
+128,Cliente 0128,BA,Camaçari
+129,Cliente 0129,PR,Ponta Grossa
+130,Cliente 0130,RO,Porto Velho
+131,Cliente 0131,RJ,São Gonçalo
+132,Cliente 0132,RS,Novo Hamburgo
+133,Cliente 0133,SP,Diadema
+134,Cliente 0134,SC,Joinville
+135,Cliente 0135,BA,Ilhéus
+136,Cliente 0136,MG,Betim
+137,Cliente 0137,PR,Ponta Grossa
+138,Cliente 0138,PI,Teresina
+139,Cliente 0139,PI,Parnaíba
+140,Cliente 0140,AP,Macapá
+141,Cliente 0141,SC,Blumenau
+142,Cliente 0142,MG,Betim
+143,Cliente 0143,RS,Porto Alegre
+144,Cliente 0144,ES,Vitória
+145,Cliente 0145,SP,Sorocaba
+146,Cliente 0146,GO,Anápolis
+147,Cliente 0147,CE,Caucaia
+148,Cliente 0148,PR,Curitiba
+149,Cliente 0149,AL,Arapiraca
+150,Cliente 0150,CE,Juazeiro do Norte
+151,Cliente 0151,RS,Caxias do Sul
+152,Cliente 0152,PB,Campina Grande
+153,Cliente 0153,PA,Santarém
+154,Cliente 0154,BA,Vitória da Conquista
+155,Cliente 0155,SP,Campinas
+156,Cliente 0156,AM,Itacoatiara
+157,Cliente 0157,MT,Cuiabá
+158,Cliente 0158,BA,Camaçari
+159,Cliente 0159,PR,Maringá
+160,Cliente 0160,BA,Salvador
+161,Cliente 0161,AP,Macapá
+162,Cliente 0162,MA,Imperatriz
+163,Cliente 0163,BA,Salvador
+164,Cliente 0164,PI,Parnaíba
+165,Cliente 0165,AL,Maceió
+166,Cliente 0166,CE,Fortaleza
+167,Cliente 0167,PE,Caruaru
+168,Cliente 0168,AL,Maceió
+169,Cliente 0169,SP,Sorocaba
+170,Cliente 0170,RS,Gravataí
+171,Cliente 0171,RR,Boa Vista
+172,Cliente 0172,SC,Florianópolis
+173,Cliente 0173,ES,Serra
+174,Cliente 0174,BA,Lauro de Freitas
+175,Cliente 0175,SC,Joinville
+176,Cliente 0176,CE,Maracanaú
+177,Cliente 0177,MA,São Luís
+178,Cliente 0178,PB,Campina Grande
+179,Cliente 0179,PA,Ananindeua
+180,Cliente 0180,PR,Londrina
+181,Cliente 0181,RS,Santa Maria
+182,Cliente 0182,RO,Porto Velho
+183,Cliente 0183,RN,Natal
+184,Cliente 0184,PR,Maringá
+185,Cliente 0185,SP,Carapicuíba
+186,Cliente 0186,SC,Joinville
+187,Cliente 0187,BA,Lauro de Freitas
+188,Cliente 0188,MT,Várzea Grande
+189,Cliente 0189,SP,Barueri
+190,Cliente 0190,PA,Ananindeua
+191,Cliente 0191,AL,Arapiraca
+192,Cliente 0192,PE,Caruaru
+193,Cliente 0193,RS,Caxias do Sul
+194,Cliente 0194,GO,Goiânia
+195,Cliente 0195,RN,Natal
+196,Cliente 0196,RS,Caxias do Sul
+197,Cliente 0197,SC,Criciúma
+198,Cliente 0198,BA,Vitória da Conquista
+199,Cliente 0199,CE,Juazeiro do Norte
+200,Cliente 0200,RN,Natal
+201,Cliente 0201,MG,Uberlândia
+202,Cliente 0202,PA,Ananindeua
+203,Cliente 0203,SP,São José dos Campos
+204,Cliente 0204,PA,Santarém
+205,Cliente 0205,AP,Macapá
+206,Cliente 0206,SP,Santos
+207,Cliente 0207,SP,Carapicuíba
+208,Cliente 0208,MG,Betim
+209,Cliente 0209,RO,Porto Velho
+210,Cliente 0210,AM,Manaus
+211,Cliente 0211,PE,Olinda
+212,Cliente 0212,ES,Vila Velha
+213,Cliente 0213,PE,Caruaru
+214,Cliente 0214,SC,Criciúma
+215,Cliente 0215,PB,João Pessoa
+216,Cliente 0216,CE,Juazeiro do Norte
+217,Cliente 0217,MS,Dourados
+218,Cliente 0218,PR,Ponta Grossa
+219,Cliente 0219,PB,Campina Grande
+220,Cliente 0220,MA,Imperatriz
+221,Cliente 0221,RR,Boa Vista
+222,Cliente 0222,CE,Maracanaú
+223,Cliente 0223,MG,Belo Horizonte
+224,Cliente 0224,ES,Serra
+225,Cliente 0225,RS,Novo Hamburgo
+226,Cliente 0226,SP,Carapicuíba
+227,Cliente 0227,RJ,Duque de Caxias
+228,Cliente 0228,PR,Ponta Grossa
+229,Cliente 0229,PB,João Pessoa
+230,Cliente 0230,PR,Ponta Grossa
+231,Cliente 0231,SC,Blumenau
+232,Cliente 0232,BA,Camaçari
+233,Cliente 0233,RS,Pelotas
+234,Cliente 0234,BA,Feira de Santana
+235,Cliente 0235,PR,Ponta Grossa
+236,Cliente 0236,SC,Criciúma
+237,Cliente 0237,PE,Olinda
+238,Cliente 0238,RS,Caxias do Sul
+239,Cliente 0239,CE,Maracanaú
+240,Cliente 0240,MG,Juiz de Fora
+241,Cliente 0241,MT,Cuiabá
+242,Cliente 0242,MG,Contagem
+243,Cliente 0243,PA,Belém
+244,Cliente 0244,MG,Juiz de Fora
+245,Cliente 0245,PB,Campina Grande
+246,Cliente 0246,RJ,São Gonçalo
+247,Cliente 0247,MG,Contagem
+248,Cliente 0248,RJ,Nova Iguaçu
+249,Cliente 0249,MT,Cuiabá
+250,Cliente 0250,RS,Porto Alegre
+251,Cliente 0251,SP,São Paulo
+252,Cliente 0252,RS,Novo Hamburgo
+253,Cliente 0253,BA,Salvador
+254,Cliente 0254,AP,Macapá
+255,Cliente 0255,SC,Itajaí
+256,Cliente 0256,PB,Campina Grande
+257,Cliente 0257,CE,Fortaleza
+258,Cliente 0258,MS,Campo Grande
+259,Cliente 0259,PR,Curitiba
+260,Cliente 0260,RJ,Campos dos Goytacazes
+261,Cliente 0261,RJ,Rio de Janeiro
+262,Cliente 0262,CE,Maracanaú
+263,Cliente 0263,MG,Juiz de Fora
+264,Cliente 0264,BA,Ilhéus
+265,Cliente 0265,AP,Macapá
+266,Cliente 0266,MG,Juiz de Fora
+267,Cliente 0267,PR,Curitiba
+268,Cliente 0268,RS,Porto Alegre
+269,Cliente 0269,SP,Barueri
+270,Cliente 0270,PI,Teresina
+271,Cliente 0271,AL,Maceió
+272,Cliente 0272,MG,Contagem
+273,Cliente 0273,PA,Belém
+274,Cliente 0274,PA,Belém
+275,Cliente 0275,MG,Betim
+276,Cliente 0276,PE,Recife
+277,Cliente 0277,MG,Contagem
+278,Cliente 0278,RS,Santa Maria
+279,Cliente 0279,GO,Anápolis
+280,Cliente 0280,BA,Vitória da Conquista
+281,Cliente 0281,SC,Itajaí
+282,Cliente 0282,PB,Campina Grande
+283,Cliente 0283,BA,Camaçari
+284,Cliente 0284,SC,Criciúma
+285,Cliente 0285,MA,Imperatriz
+286,Cliente 0286,PR,Curitiba
+287,Cliente 0287,PR,Cascavel
+288,Cliente 0288,CE,Caucaia
+289,Cliente 0289,CE,Fortaleza
+290,Cliente 0290,RO,Porto Velho
+291,Cliente 0291,SP,Ribeirão Preto
+292,Cliente 0292,RN,Natal
+293,Cliente 0293,PE,Recife
+294,Cliente 0294,SP,Barueri
+295,Cliente 0295,RS,Porto Alegre
+296,Cliente 0296,AP,Macapá
+297,Cliente 0297,PA,Santarém
+298,Cliente 0298,SC,Criciúma
+299,Cliente 0299,MS,Campo Grande
+300,Cliente 0300,BA,Lauro de Freitas
+301,Cliente 0301,PR,Ponta Grossa
+302,Cliente 0302,MG,Juiz de Fora
+303,Cliente 0303,SP,Carapicuíba
+304,Cliente 0304,PE,Caruaru
+305,Cliente 0305,PE,Jaboatão dos Guararapes
+306,Cliente 0306,SP,São Paulo
+307,Cliente 0307,BA,Vitória da Conquista
+308,Cliente 0308,MA,Imperatriz
+309,Cliente 0309,AL,Arapiraca
+310,Cliente 0310,PR,Cascavel
+311,Cliente 0311,GO,Aparecida de Goiânia
+312,Cliente 0312,PA,Belém
+313,Cliente 0313,RJ,Niterói
+314,Cliente 0314,TO,Palmas
+315,Cliente 0315,RJ,São Gonçalo
+316,Cliente 0316,AL,Arapiraca
+317,Cliente 0317,RR,Boa Vista
+318,Cliente 0318,RJ,Niterói
+319,Cliente 0319,RJ,Nova Iguaçu
+320,Cliente 0320,PE,Caruaru
+321,Cliente 0321,CE,Maracanaú
+322,Cliente 0322,GO,Aparecida de Goiânia
+323,Cliente 0323,PR,Curitiba
+324,Cliente 0324,SC,Florianópolis
+325,Cliente 0325,RJ,Duque de Caxias
+326,Cliente 0326,BA,Lauro de Freitas
+327,Cliente 0327,SC,Itajaí
+328,Cliente 0328,RJ,Campos dos Goytacazes
+329,Cliente 0329,RJ,São Gonçalo
+330,Cliente 0330,MG,Betim
+331,Cliente 0331,PE,Jaboatão dos Guararapes
+332,Cliente 0332,PA,Ananindeua
+333,Cliente 0333,RR,Boa Vista
+334,Cliente 0334,MG,Belo Horizonte
+335,Cliente 0335,SC,Joinville
+336,Cliente 0336,PB,Campina Grande
+337,Cliente 0337,AL,Maceió
+338,Cliente 0338,BA,Feira de Santana
+339,Cliente 0339,SP,Ribeirão Preto
+340,Cliente 0340,MT,Várzea Grande
+341,Cliente 0341,ES,Serra
+342,Cliente 0342,PE,Recife
+343,Cliente 0343,RN,Mossoró
+344,Cliente 0344,PR,Ponta Grossa
+345,Cliente 0345,RJ,Niterói
+346,Cliente 0346,MA,São Luís
+347,Cliente 0347,MG,Belo Horizonte
+348,Cliente 0348,SC,Chapecó
+349,Cliente 0349,RJ,Campos dos Goytacazes
+350,Cliente 0350,SC,Blumenau
+351,Cliente 0351,MT,Cuiabá
+352,Cliente 0352,PR,Londrina
+353,Cliente 0353,MG,Juiz de Fora
+354,Cliente 0354,RR,Boa Vista
+355,Cliente 0355,GO,Goiânia
+356,Cliente 0356,MG,Betim
+357,Cliente 0357,MG,Governador Valadares
+358,Cliente 0358,SP,São José dos Campos
+359,Cliente 0359,PR,Londrina
+360,Cliente 0360,SC,Chapecó
+361,Cliente 0361,SP,Osasco
+362,Cliente 0362,SP,Sorocaba
+363,Cliente 0363,PR,Londrina
+364,Cliente 0364,GO,Anápolis
+365,Cliente 0365,SP,São Paulo
+366,Cliente 0366,RR,Boa Vista
+367,Cliente 0367,RO,Ji-Paraná
+368,Cliente 0368,PR,Londrina
+369,Cliente 0369,SC,Chapecó
+370,Cliente 0370,AL,Arapiraca
+371,Cliente 0371,CE,Fortaleza
+372,Cliente 0372,TO,Palmas
+373,Cliente 0373,PR,Ponta Grossa
+374,Cliente 0374,RJ,Rio de Janeiro
+375,Cliente 0375,SP,Santos
+376,Cliente 0376,RO,Porto Velho
+377,Cliente 0377,MS,Dourados
+378,Cliente 0378,MG,Uberlândia
+379,Cliente 0379,MG,Juiz de Fora
+380,Cliente 0380,PR,Londrina
+381,Cliente 0381,PI,Teresina
+382,Cliente 0382,MG,Uberlândia
+383,Cliente 0383,DF,Brasília
+384,Cliente 0384,PE,Caruaru
+385,Cliente 0385,ES,Vitória
+386,Cliente 0386,ES,Vila Velha
+387,Cliente 0387,AL,Arapiraca
+388,Cliente 0388,SP,Carapicuíba
+389,Cliente 0389,PR,Curitiba
+390,Cliente 0390,RS,Novo Hamburgo
+391,Cliente 0391,PB,Campina Grande
+392,Cliente 0392,PR,Ponta Grossa
+393,Cliente 0393,RR,Boa Vista
+394,Cliente 0394,AM,Manaus
+395,Cliente 0395,AL,Arapiraca
+396,Cliente 0396,BA,Ilhéus
+397,Cliente 0397,MG,Juiz de Fora
+398,Cliente 0398,RJ,Nova Iguaçu
+399,Cliente 0399,AM,Itacoatiara
+400,Cliente 0400,MS,Dourados
+401,Cliente 0401,BA,Salvador
+402,Cliente 0402,SC,Itajaí
+403,Cliente 0403,SP,Santos
+404,Cliente 0404,MT,Várzea Grande
+405,Cliente 0405,TO,Palmas
+406,Cliente 0406,RJ,Nova Iguaçu
+407,Cliente 0407,MS,Dourados
+408,Cliente 0408,PR,Maringá
+409,Cliente 0409,BA,Feira de Santana
+410,Cliente 0410,BA,Ilhéus
+411,Cliente 0411,RS,Gravataí
+412,Cliente 0412,RJ,São Gonçalo
+413,Cliente 0413,RS,Pelotas
+414,Cliente 0414,TO,Palmas
+415,Cliente 0415,RN,Mossoró
+416,Cliente 0416,SC,Criciúma
+417,Cliente 0417,RJ,Niterói
+418,Cliente 0418,RS,Pelotas
+419,Cliente 0419,PR,Ponta Grossa
+420,Cliente 0420,BA,Ilhéus
+421,Cliente 0421,MT,Várzea Grande
+422,Cliente 0422,PA,Ananindeua
+423,Cliente 0423,SP,Carapicuíba
+424,Cliente 0424,MS,Dourados
+425,Cliente 0425,PR,Cascavel
+426,Cliente 0426,DF,Brasília
+427,Cliente 0427,RS,Porto Alegre
+428,Cliente 0428,PA,Santarém
+429,Cliente 0429,RJ,Niterói
+430,Cliente 0430,SP,São José dos Campos
+431,Cliente 0431,CE,Juazeiro do Norte
+432,Cliente 0432,RJ,Nova Iguaçu
+433,Cliente 0433,PR,Foz do Iguaçu
+434,Cliente 0434,SP,Ribeirão Preto
+435,Cliente 0435,BA,Feira de Santana
+436,Cliente 0436,SC,Itajaí
+437,Cliente 0437,BA,Feira de Santana
+438,Cliente 0438,MT,Cuiabá
+439,Cliente 0439,MA,Imperatriz
+440,Cliente 0440,SP,São José dos Campos
+441,Cliente 0441,ES,Vitória
+442,Cliente 0442,ES,Vitória
+443,Cliente 0443,PA,Belém
+444,Cliente 0444,MG,Juiz de Fora
+445,Cliente 0445,RN,Natal
+446,Cliente 0446,SP,Ribeirão Preto
+447,Cliente 0447,AL,Maceió
+448,Cliente 0448,AL,Arapiraca
+449,Cliente 0449,PR,Curitiba
+450,Cliente 0450,RS,Santa Maria
+451,Cliente 0451,GO,Anápolis
+452,Cliente 0452,BA,Vitória da Conquista
+453,Cliente 0453,AL,Maceió
+454,Cliente 0454,RS,Pelotas
+455,Cliente 0455,TO,Palmas
+456,Cliente 0456,CE,Caucaia
+457,Cliente 0457,GO,Anápolis
+458,Cliente 0458,AP,Macapá
+459,Cliente 0459,PA,Santarém
+460,Cliente 0460,PB,Campina Grande
+461,Cliente 0461,BA,Lauro de Freitas
+462,Cliente 0462,RJ,Duque de Caxias
+463,Cliente 0463,PI,Parnaíba
+464,Cliente 0464,SP,São Paulo
+465,Cliente 0465,MA,São Luís
+466,Cliente 0466,SP,Osasco
+467,Cliente 0467,SC,Itajaí
+468,Cliente 0468,MG,Uberlândia
+469,Cliente 0469,RN,Mossoró
+470,Cliente 0470,TO,Palmas
+471,Cliente 0471,SP,Osasco
+472,Cliente 0472,SP,Osasco
+473,Cliente 0473,CE,Juazeiro do Norte
+474,Cliente 0474,BA,Lauro de Freitas
+475,Cliente 0475,PE,Caruaru
+476,Cliente 0476,RS,Novo Hamburgo
+477,Cliente 0477,MG,Belo Horizonte
+478,Cliente 0478,SC,Florianópolis
+479,Cliente 0479,GO,Goiânia
+480,Cliente 0480,AM,Manaus
+481,Cliente 0481,MG,Betim
+482,Cliente 0482,RJ,Volta Redonda
+483,Cliente 0483,MG,Juiz de Fora
+484,Cliente 0484,TO,Palmas
+485,Cliente 0485,PA,Santarém
+486,Cliente 0486,SC,Joinville
+487,Cliente 0487,SC,Blumenau
+488,Cliente 0488,ES,Vila Velha
+489,Cliente 0489,SP,São José dos Campos
+490,Cliente 0490,PE,Olinda
+491,Cliente 0491,PE,Jaboatão dos Guararapes
+492,Cliente 0492,PB,Campina Grande
+493,Cliente 0493,MT,Várzea Grande
+494,Cliente 0494,ES,Serra
+495,Cliente 0495,PA,Santarém
+496,Cliente 0496,MG,Belo Horizonte
+497,Cliente 0497,SP,Barueri
+498,Cliente 0498,TO,Palmas
+499,Cliente 0499,SP,São Paulo
+500,Cliente 0500,SP,São José dos Campos
+501,Cliente 0501,MG,Contagem
+502,Cliente 0502,RJ,São Gonçalo
+503,Cliente 0503,MS,Campo Grande
+504,Cliente 0504,BA,Camaçari
+505,Cliente 0505,PE,Caruaru
+506,Cliente 0506,CE,Caucaia
+507,Cliente 0507,RJ,Duque de Caxias
+508,Cliente 0508,SC,Chapecó
+509,Cliente 0509,BA,Salvador
+510,Cliente 0510,PI,Teresina
+511,Cliente 0511,ES,Serra
+512,Cliente 0512,MG,Betim
+513,Cliente 0513,SP,São José dos Campos
+514,Cliente 0514,RO,Porto Velho
+515,Cliente 0515,PR,Cascavel
+516,Cliente 0516,RS,Caxias do Sul
+517,Cliente 0517,AL,Maceió
+518,Cliente 0518,RJ,Niterói
+519,Cliente 0519,RS,Gravataí
+520,Cliente 0520,PR,Ponta Grossa
+521,Cliente 0521,RJ,Duque de Caxias
+522,Cliente 0522,PA,Belém
+523,Cliente 0523,MG,Betim
+524,Cliente 0524,MG,Juiz de Fora
+525,Cliente 0525,GO,Aparecida de Goiânia
+526,Cliente 0526,BA,Vitória da Conquista
+527,Cliente 0527,PE,Caruaru
+528,Cliente 0528,BA,Vitória da Conquista
+529,Cliente 0529,PA,Belém
+530,Cliente 0530,RN,Mossoró
+531,Cliente 0531,PB,João Pessoa
+532,Cliente 0532,RJ,Niterói
+533,Cliente 0533,RJ,Nova Iguaçu
+534,Cliente 0534,MA,São Luís
+535,Cliente 0535,GO,Goiânia
+536,Cliente 0536,RS,Santa Maria
+537,Cliente 0537,RJ,Rio de Janeiro
+538,Cliente 0538,MT,Cuiabá
+539,Cliente 0539,PA,Belém
+540,Cliente 0540,GO,Anápolis
+541,Cliente 0541,SP,Santos
+542,Cliente 0542,SP,Osasco
+543,Cliente 0543,RO,Porto Velho
+544,Cliente 0544,SC,Florianópolis
+545,Cliente 0545,MG,Betim
+546,Cliente 0546,RS,Novo Hamburgo
+547,Cliente 0547,SC,Florianópolis
+548,Cliente 0548,SC,Florianópolis
+549,Cliente 0549,PE,Caruaru
+550,Cliente 0550,ES,Serra
+551,Cliente 0551,AL,Arapiraca
+552,Cliente 0552,RO,Ji-Paraná
+553,Cliente 0553,PE,Recife
+554,Cliente 0554,PE,Olinda
+555,Cliente 0555,MG,Belo Horizonte
+556,Cliente 0556,PB,João Pessoa
+557,Cliente 0557,PA,Ananindeua
+558,Cliente 0558,AM,Itacoatiara
+559,Cliente 0559,PI,Parnaíba
+560,Cliente 0560,PR,Ponta Grossa
+561,Cliente 0561,CE,Caucaia
+562,Cliente 0562,ES,Vitória
+563,Cliente 0563,PI,Parnaíba
+564,Cliente 0564,RN,Mossoró
+565,Cliente 0565,PR,Londrina
+566,Cliente 0566,RO,Ji-Paraná
+567,Cliente 0567,ES,Serra
+568,Cliente 0568,SC,Itajaí
+569,Cliente 0569,RJ,São Gonçalo
+570,Cliente 0570,RJ,Nova Iguaçu
+571,Cliente 0571,PR,Curitiba
+572,Cliente 0572,CE,Caucaia
+573,Cliente 0573,RO,Porto Velho
+574,Cliente 0574,SP,Guarulhos
+575,Cliente 0575,SP,Santos
+576,Cliente 0576,BA,Ilhéus
+577,Cliente 0577,GO,Aparecida de Goiânia
+578,Cliente 0578,SP,Osasco
+579,Cliente 0579,TO,Palmas
+580,Cliente 0580,SP,Guarulhos
+581,Cliente 0581,SC,Blumenau
+582,Cliente 0582,SC,Criciúma
+583,Cliente 0583,MG,Belo Horizonte
+584,Cliente 0584,SP,Ribeirão Preto
+585,Cliente 0585,CE,Caucaia
+586,Cliente 0586,CE,Maracanaú
+587,Cliente 0587,RN,Mossoró
+588,Cliente 0588,MG,Betim
+589,Cliente 0589,MG,Betim
+590,Cliente 0590,PR,Curitiba
+591,Cliente 0591,MS,Dourados
+592,Cliente 0592,BA,Salvador
+593,Cliente 0593,DF,Brasília
+594,Cliente 0594,SC,Chapecó
+595,Cliente 0595,ES,Serra
+596,Cliente 0596,MA,Imperatriz
+597,Cliente 0597,MG,Betim
+598,Cliente 0598,SP,São José dos Campos
+599,Cliente 0599,SP,São Paulo
+600,Cliente 0600,BA,Feira de Santana
+601,Cliente 0601,CE,Juazeiro do Norte
+602,Cliente 0602,SP,Diadema
+603,Cliente 0603,BA,Feira de Santana
+604,Cliente 0604,BA,Lauro de Freitas
+605,Cliente 0605,PR,Foz do Iguaçu
+606,Cliente 0606,SC,Criciúma
+607,Cliente 0607,RN,Mossoró
+608,Cliente 0608,TO,Palmas
+609,Cliente 0609,SP,Ribeirão Preto
+610,Cliente 0610,PB,João Pessoa
+611,Cliente 0611,ES,Vila Velha
+612,Cliente 0612,RN,Mossoró
+613,Cliente 0613,ES,Serra
+614,Cliente 0614,CE,Juazeiro do Norte
+615,Cliente 0615,MS,Campo Grande
+616,Cliente 0616,MA,São Luís
+617,Cliente 0617,RN,Natal
+618,Cliente 0618,PI,Teresina
+619,Cliente 0619,AM,Itacoatiara
+620,Cliente 0620,PA,Santarém
+621,Cliente 0621,PE,Recife
+622,Cliente 0622,PE,Caruaru
+623,Cliente 0623,RJ,Nova Iguaçu
+624,Cliente 0624,TO,Palmas
+625,Cliente 0625,PB,João Pessoa
+626,Cliente 0626,CE,Maracanaú
+627,Cliente 0627,AM,Manaus
+628,Cliente 0628,SP,São Paulo
+629,Cliente 0629,MG,Belo Horizonte
+630,Cliente 0630,CE,Fortaleza
+631,Cliente 0631,SP,Ribeirão Preto
+632,Cliente 0632,MT,Cuiabá
+633,Cliente 0633,DF,Brasília
+634,Cliente 0634,PE,Olinda
+635,Cliente 0635,RS,Novo Hamburgo
+636,Cliente 0636,RJ,Nova Iguaçu
+637,Cliente 0637,PE,Olinda
+638,Cliente 0638,MT,Várzea Grande
+639,Cliente 0639,MG,Uberlândia
+640,Cliente 0640,CE,Fortaleza
+641,Cliente 0641,CE,Fortaleza
+642,Cliente 0642,ES,Vila Velha
+643,Cliente 0643,MS,Dourados
+644,Cliente 0644,PB,João Pessoa
+645,Cliente 0645,PR,Cascavel
+646,Cliente 0646,MG,Juiz de Fora
+647,Cliente 0647,RO,Porto Velho
+648,Cliente 0648,RO,Porto Velho
+649,Cliente 0649,RJ,São Gonçalo
+650,Cliente 0650,DF,Brasília
+651,Cliente 0651,RJ,Rio de Janeiro
+652,Cliente 0652,BA,Salvador
+653,Cliente 0653,MG,Uberlândia
+654,Cliente 0654,MG,Belo Horizonte
+655,Cliente 0655,SP,Sorocaba
+656,Cliente 0656,AP,Macapá
+657,Cliente 0657,RS,Gravataí
+658,Cliente 0658,PR,Londrina
+659,Cliente 0659,AM,Itacoatiara
+660,Cliente 0660,PI,Teresina
+661,Cliente 0661,CE,Juazeiro do Norte
+662,Cliente 0662,MG,Uberlândia
+663,Cliente 0663,RS,Porto Alegre
+664,Cliente 0664,ES,Vila Velha
+665,Cliente 0665,RO,Porto Velho
+666,Cliente 0666,PA,Santarém
+667,Cliente 0667,MG,Belo Horizonte
+668,Cliente 0668,PR,Foz do Iguaçu
+669,Cliente 0669,RS,Gravataí
+670,Cliente 0670,RJ,Duque de Caxias
+671,Cliente 0671,SP,Diadema
+672,Cliente 0672,SC,Florianópolis
+673,Cliente 0673,CE,Maracanaú
+674,Cliente 0674,PR,Londrina
+675,Cliente 0675,RS,Porto Alegre
+676,Cliente 0676,CE,Caucaia
+677,Cliente 0677,RN,Mossoró
+678,Cliente 0678,PA,Santarém
+679,Cliente 0679,RO,Ji-Paraná
+680,Cliente 0680,PE,Recife
+681,Cliente 0681,SC,Blumenau
+682,Cliente 0682,PB,João Pessoa
+683,Cliente 0683,RJ,Rio de Janeiro
+684,Cliente 0684,RR,Boa Vista
+685,Cliente 0685,PR,Cascavel
+686,Cliente 0686,BA,Vitória da Conquista
+687,Cliente 0687,RO,Porto Velho
+688,Cliente 0688,SP,Campinas
+689,Cliente 0689,MG,Belo Horizonte
+690,Cliente 0690,SC,Chapecó
+691,Cliente 0691,RJ,Campos dos Goytacazes
+692,Cliente 0692,AM,Manaus
+693,Cliente 0693,RN,Mossoró
+694,Cliente 0694,SC,Criciúma
+695,Cliente 0695,GO,Anápolis
+696,Cliente 0696,RR,Boa Vista
+697,Cliente 0697,RJ,Niterói
+698,Cliente 0698,SC,Itajaí
+699,Cliente 0699,RJ,São Gonçalo
+700,Cliente 0700,PE,Jaboatão dos Guararapes
+701,Cliente 0701,AM,Itacoatiara
+702,Cliente 0702,BA,Camaçari
+703,Cliente 0703,AP,Macapá
+704,Cliente 0704,AP,Macapá
+705,Cliente 0705,RJ,Niterói
+706,Cliente 0706,PR,Curitiba
+707,Cliente 0707,TO,Palmas
+708,Cliente 0708,PR,Londrina
+709,Cliente 0709,BA,Lauro de Freitas
+710,Cliente 0710,GO,Anápolis
+711,Cliente 0711,RO,Ji-Paraná
+712,Cliente 0712,PA,Ananindeua
+713,Cliente 0713,PR,Maringá
+714,Cliente 0714,SP,Ribeirão Preto
+715,Cliente 0715,RO,Porto Velho
+716,Cliente 0716,ES,Serra
+717,Cliente 0717,AM,Itacoatiara
+718,Cliente 0718,MS,Dourados
+719,Cliente 0719,CE,Fortaleza
+720,Cliente 0720,SC,Florianópolis
+721,Cliente 0721,RS,Porto Alegre
+722,Cliente 0722,CE,Juazeiro do Norte
+723,Cliente 0723,BA,Vitória da Conquista
+724,Cliente 0724,RJ,Rio de Janeiro
+725,Cliente 0725,RS,Pelotas
+726,Cliente 0726,MG,Juiz de Fora
+727,Cliente 0727,BA,Lauro de Freitas
+728,Cliente 0728,RS,Pelotas
+729,Cliente 0729,MG,Belo Horizonte
+730,Cliente 0730,SP,Barueri
+731,Cliente 0731,PE,Olinda
+732,Cliente 0732,BA,Lauro de Freitas
+733,Cliente 0733,SP,Diadema
+734,Cliente 0734,PE,Caruaru
+735,Cliente 0735,MG,Belo Horizonte
+736,Cliente 0736,AP,Macapá
+737,Cliente 0737,BA,Vitória da Conquista
+738,Cliente 0738,RN,Mossoró
+739,Cliente 0739,SP,Diadema
+740,Cliente 0740,PB,Campina Grande
+741,Cliente 0741,SC,Criciúma
+742,Cliente 0742,AP,Macapá
+743,Cliente 0743,PR,Foz do Iguaçu
+744,Cliente 0744,ES,Vila Velha
+745,Cliente 0745,SC,Blumenau
+746,Cliente 0746,PA,Santarém
+747,Cliente 0747,RN,Natal
+748,Cliente 0748,PR,Foz do Iguaçu
+749,Cliente 0749,SP,Campinas
+750,Cliente 0750,MG,Governador Valadares
+751,Cliente 0751,RS,Santa Maria
+752,Cliente 0752,SP,Campinas
+753,Cliente 0753,SP,Osasco
+754,Cliente 0754,PE,Caruaru
+755,Cliente 0755,PI,Teresina
+756,Cliente 0756,RO,Porto Velho
+757,Cliente 0757,RJ,Volta Redonda
+758,Cliente 0758,RS,Pelotas
+759,Cliente 0759,RJ,Rio de Janeiro
+760,Cliente 0760,PE,Caruaru
+761,Cliente 0761,PE,Caruaru
+762,Cliente 0762,SP,Campinas
+763,Cliente 0763,MT,Cuiabá
+764,Cliente 0764,BA,Camaçari
+765,Cliente 0765,ES,Vitória
+766,Cliente 0766,SP,Guarulhos
+767,Cliente 0767,PE,Caruaru
+768,Cliente 0768,RN,Mossoró
+769,Cliente 0769,RN,Mossoró
+770,Cliente 0770,PR,Foz do Iguaçu
+771,Cliente 0771,PE,Jaboatão dos Guararapes
+772,Cliente 0772,CE,Fortaleza
+773,Cliente 0773,PI,Teresina
+774,Cliente 0774,RJ,Duque de Caxias
+775,Cliente 0775,PE,Olinda
+776,Cliente 0776,RR,Boa Vista
+777,Cliente 0777,MG,Contagem
+778,Cliente 0778,PB,Campina Grande
+779,Cliente 0779,RN,Natal
+780,Cliente 0780,BA,Feira de Santana
+781,Cliente 0781,AP,Macapá
+782,Cliente 0782,PI,Teresina
+783,Cliente 0783,RJ,Volta Redonda
+784,Cliente 0784,MS,Campo Grande
+785,Cliente 0785,MA,Imperatriz
+786,Cliente 0786,PE,Olinda
+787,Cliente 0787,BA,Salvador
+788,Cliente 0788,MS,Dourados
+789,Cliente 0789,RJ,Duque de Caxias
+790,Cliente 0790,MG,Uberlândia
+791,Cliente 0791,PB,João Pessoa
+792,Cliente 0792,MS,Campo Grande
+793,Cliente 0793,SP,Ribeirão Preto
+794,Cliente 0794,AL,Maceió
+795,Cliente 0795,SP,Carapicuíba
+796,Cliente 0796,SP,Campinas
+797,Cliente 0797,CE,Caucaia
+798,Cliente 0798,PB,João Pessoa
+799,Cliente 0799,RS,Novo Hamburgo
+800,Cliente 0800,CE,Fortaleza
+801,Cliente 0801,PR,Cascavel
+802,Cliente 0802,MG,Contagem
+803,Cliente 0803,ES,Serra
+804,Cliente 0804,RN,Natal
+805,Cliente 0805,RS,Caxias do Sul
+806,Cliente 0806,PA,Ananindeua
+807,Cliente 0807,SC,Blumenau
+808,Cliente 0808,SP,Santos
+809,Cliente 0809,MG,Uberlândia
+810,Cliente 0810,SC,Chapecó
+811,Cliente 0811,SC,Itajaí
+812,Cliente 0812,RR,Boa Vista
+813,Cliente 0813,MG,Governador Valadares
+814,Cliente 0814,RN,Natal
+815,Cliente 0815,SP,Diadema
+816,Cliente 0816,PA,Santarém
+817,Cliente 0817,GO,Goiânia
+818,Cliente 0818,RS,Porto Alegre
+819,Cliente 0819,GO,Anápolis
+820,Cliente 0820,RS,Porto Alegre
+821,Cliente 0821,RS,Caxias do Sul
+822,Cliente 0822,ES,Serra
+823,Cliente 0823,CE,Caucaia
+824,Cliente 0824,GO,Goiânia
+825,Cliente 0825,ES,Serra
+826,Cliente 0826,BA,Salvador
+827,Cliente 0827,RS,Gravataí
+828,Cliente 0828,GO,Goiânia
+829,Cliente 0829,SP,Ribeirão Preto
+830,Cliente 0830,PR,Maringá
+831,Cliente 0831,CE,Juazeiro do Norte
+832,Cliente 0832,RS,Caxias do Sul
+833,Cliente 0833,PR,Curitiba
+834,Cliente 0834,MG,Juiz de Fora
+835,Cliente 0835,SP,Barueri
+836,Cliente 0836,PA,Belém
+837,Cliente 0837,RJ,Campos dos Goytacazes
+838,Cliente 0838,SP,Barueri
+839,Cliente 0839,BA,Feira de Santana
+840,Cliente 0840,MG,Juiz de Fora
+841,Cliente 0841,BA,Vitória da Conquista
+842,Cliente 0842,MT,Cuiabá
+843,Cliente 0843,BA,Camaçari
+844,Cliente 0844,SP,Diadema
+845,Cliente 0845,MS,Dourados
+846,Cliente 0846,PR,Ponta Grossa
+847,Cliente 0847,SC,Joinville
+848,Cliente 0848,RJ,Volta Redonda
+849,Cliente 0849,TO,Palmas
+850,Cliente 0850,MG,Betim
+851,Cliente 0851,PR,Cascavel
+852,Cliente 0852,MG,Juiz de Fora
+853,Cliente 0853,AM,Manaus
+854,Cliente 0854,SP,Osasco
+855,Cliente 0855,CE,Fortaleza
+856,Cliente 0856,PB,João Pessoa
+857,Cliente 0857,CE,Maracanaú
+858,Cliente 0858,MG,Juiz de Fora
+859,Cliente 0859,MG,Juiz de Fora
+860,Cliente 0860,SC,Joinville
+861,Cliente 0861,MS,Dourados
+862,Cliente 0862,AL,Maceió
+863,Cliente 0863,PR,Curitiba
+864,Cliente 0864,SP,Carapicuíba
+865,Cliente 0865,SP,Sorocaba
+866,Cliente 0866,GO,Goiânia
+867,Cliente 0867,SC,Joinville
+868,Cliente 0868,MG,Contagem
+869,Cliente 0869,RS,Pelotas
+870,Cliente 0870,SP,Osasco
+871,Cliente 0871,RJ,Rio de Janeiro
+872,Cliente 0872,GO,Aparecida de Goiânia
+873,Cliente 0873,PR,Curitiba
+874,Cliente 0874,SP,Guarulhos
+875,Cliente 0875,RN,Mossoró
+876,Cliente 0876,SP,Sorocaba
+877,Cliente 0877,BA,Camaçari
+878,Cliente 0878,ES,Vitória
+879,Cliente 0879,RJ,São Gonçalo
+880,Cliente 0880,RS,Santa Maria
+881,Cliente 0881,AM,Itacoatiara
+882,Cliente 0882,AL,Arapiraca
+883,Cliente 0883,RJ,Volta Redonda
+884,Cliente 0884,PB,Campina Grande
+885,Cliente 0885,CE,Maracanaú
+886,Cliente 0886,MT,Várzea Grande
+887,Cliente 0887,RO,Ji-Paraná
+888,Cliente 0888,PA,Ananindeua
+889,Cliente 0889,RS,Caxias do Sul
+890,Cliente 0890,MG,Belo Horizonte
+891,Cliente 0891,MA,São Luís
+892,Cliente 0892,CE,Caucaia
+893,Cliente 0893,ES,Vila Velha
+894,Cliente 0894,CE,Maracanaú
+895,Cliente 0895,SP,Guarulhos
+896,Cliente 0896,MG,Contagem
+897,Cliente 0897,SC,Criciúma
+898,Cliente 0898,RN,Natal
+899,Cliente 0899,PR,Cascavel
+900,Cliente 0900,ES,Serra
+901,Cliente 0901,RJ,Duque de Caxias
+902,Cliente 0902,BA,Ilhéus
+903,Cliente 0903,SP,Diadema
+904,Cliente 0904,MG,Contagem
+905,Cliente 0905,PR,Cascavel
+906,Cliente 0906,PR,Maringá
+907,Cliente 0907,SC,Chapecó
+908,Cliente 0908,AM,Itacoatiara
+909,Cliente 0909,RS,Caxias do Sul
+910,Cliente 0910,PI,Parnaíba
+911,Cliente 0911,RJ,Duque de Caxias
+912,Cliente 0912,MA,São Luís
+913,Cliente 0913,RN,Natal
+914,Cliente 0914,AM,Itacoatiara
+915,Cliente 0915,GO,Anápolis
+916,Cliente 0916,PR,Cascavel
+917,Cliente 0917,CE,Maracanaú
+918,Cliente 0918,MG,Belo Horizonte
+919,Cliente 0919,SP,Carapicuíba
+920,Cliente 0920,SC,Chapecó
+921,Cliente 0921,ES,Serra
+922,Cliente 0922,SP,Sorocaba
+923,Cliente 0923,BA,Lauro de Freitas
+924,Cliente 0924,PB,Campina Grande
+925,Cliente 0925,PR,Foz do Iguaçu
+926,Cliente 0926,RN,Natal
+927,Cliente 0927,RR,Boa Vista
+928,Cliente 0928,SP,São Paulo
+929,Cliente 0929,AL,Maceió
+930,Cliente 0930,SC,Criciúma
+931,Cliente 0931,BA,Vitória da Conquista
+932,Cliente 0932,RS,Caxias do Sul
+933,Cliente 0933,SP,Campinas
+934,Cliente 0934,SP,Osasco
+935,Cliente 0935,SC,Criciúma
+936,Cliente 0936,GO,Aparecida de Goiânia
+937,Cliente 0937,ES,Vila Velha
+938,Cliente 0938,RS,Caxias do Sul
+939,Cliente 0939,SP,Ribeirão Preto
+940,Cliente 0940,PB,Campina Grande
+941,Cliente 0941,MS,Dourados
+942,Cliente 0942,BA,Vitória da Conquista
+943,Cliente 0943,PI,Teresina
+944,Cliente 0944,MT,Cuiabá
+945,Cliente 0945,PE,Jaboatão dos Guararapes
+946,Cliente 0946,BA,Ilhéus
+947,Cliente 0947,BA,Vitória da Conquista
+948,Cliente 0948,SP,São Paulo
+949,Cliente 0949,PR,Ponta Grossa
+950,Cliente 0950,PE,Jaboatão dos Guararapes
+951,Cliente 0951,ES,Serra
+952,Cliente 0952,SP,Barueri
+953,Cliente 0953,PR,Cascavel
+954,Cliente 0954,MS,Dourados
+955,Cliente 0955,SP,Diadema
+956,Cliente 0956,SP,Guarulhos
+957,Cliente 0957,RJ,Niterói
+958,Cliente 0958,SP,São Paulo
+959,Cliente 0959,GO,Anápolis
+960,Cliente 0960,MT,Cuiabá
+961,Cliente 0961,SC,Itajaí
+962,Cliente 0962,PE,Caruaru
+963,Cliente 0963,MS,Dourados
+964,Cliente 0964,AL,Maceió
+965,Cliente 0965,MT,Cuiabá
+966,Cliente 0966,SP,Campinas
+967,Cliente 0967,MG,Uberlândia
+968,Cliente 0968,MT,Cuiabá
+969,Cliente 0969,SP,Campinas
+970,Cliente 0970,MG,Betim
+971,Cliente 0971,GO,Goiânia
+972,Cliente 0972,RS,Novo Hamburgo
+973,Cliente 0973,PB,Campina Grande
+974,Cliente 0974,PR,Cascavel
+975,Cliente 0975,CE,Maracanaú
+976,Cliente 0976,PI,Parnaíba
+977,Cliente 0977,PR,Londrina
+978,Cliente 0978,SC,Joinville
+979,Cliente 0979,RO,Ji-Paraná
+980,Cliente 0980,RS,Pelotas
+981,Cliente 0981,BA,Camaçari
+982,Cliente 0982,BA,Lauro de Freitas
+983,Cliente 0983,BA,Camaçari
+984,Cliente 0984,SC,Florianópolis
+985,Cliente 0985,MS,Dourados
+986,Cliente 0986,PE,Jaboatão dos Guararapes
+987,Cliente 0987,SP,Barueri
+988,Cliente 0988,BA,Ilhéus
+989,Cliente 0989,SC,Criciúma
+990,Cliente 0990,PR,Maringá
+991,Cliente 0991,RO,Porto Velho
+992,Cliente 0992,SP,Sorocaba
+993,Cliente 0993,RO,Porto Velho
+994,Cliente 0994,BA,Feira de Santana
+995,Cliente 0995,SC,Joinville
+996,Cliente 0996,SP,Sorocaba
+997,Cliente 0997,SP,Guarulhos
+998,Cliente 0998,AM,Manaus
+999,Cliente 0999,BA,Camaçari
+1000,Cliente 1000,RJ,Volta Redonda
